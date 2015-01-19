@@ -31,7 +31,7 @@ Den här uppgiften går ut på att skriva ett program som returnerar fakulteten 
 En gammal matematiklärare har blivit lite glömsk och kan inte hålla reda på sina sifferserier, hjälp honom genom att göra en funktion som räknar ut fakulteten av ett tal
 
 Fakulteten räknas ut genom  att gångra tal i en serie till och med fakultetstalet.
-ex. 5! är lika med 1*2*3*4*5 vilket ger 120
+ex. 5! är lika med 1\*2\*3\*4\*5 vilket ger 120
 
 Fakultetstalet skall vara ett positivt heltal, 0 ger enligt matematiska regler 1
 
